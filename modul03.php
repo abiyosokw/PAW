@@ -17,16 +17,25 @@
     <title>Hello World</title>
     
     <style>
+    @media screen and (max-width: 2000px) {
+        blockquote {
+            font-size: 40px;
+            color: black;
+        }
+    }
+
+    @media screen and (max-width: 800px) {
+        blockquote {
+            font-size: 30px;
+            color: gray;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
     blockquote {
-        font-size: 24px;
-    }
-
-    blockquote::before {
-        content: open-quote;
-    }
-
-    blockquote::after {
-        content: close-quote;
+            font-size: 20px;
+            color: lightgray;
+        }
     }
     </style>
 </head>
