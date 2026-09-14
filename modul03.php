@@ -10,7 +10,7 @@
 
 </html> -->
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -46,6 +46,27 @@
     <blockquote>
     I'd volunteer to go to prison, as long as there are books. Because with books I am free.
     </blockquote>
+
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Latihan 5</title>
+</head>
+<body>
+
+    <h2>Riwayat Pendidikan</h2>
+
+    <ol style="font-size: 24px;" type="I" start="2">
+        <li>TK Tadika Mesra </li>
+        <li>Springfield Elementary School </li>
+        <li>Kunugigaoka Junior High School </li>
+        <li>U.A. High School </li>
+        <li>Monsters University</li>
+    </ol>
 
 </body>
 </html>
